@@ -1,0 +1,11 @@
+C:\Users\WW540\source\repos\MethodsandParameters\MethodsandParameters\bin\Debug\MethodsandParameters.exe.config
+C:\Users\WW540\source\repos\MethodsandParameters\MethodsandParameters\bin\Debug\MethodsandParameters.exe
+C:\Users\WW540\source\repos\MethodsandParameters\MethodsandParameters\bin\Debug\MethodsandParameters.pdb
+C:\Users\WW540\source\repos\MethodsandParameters\MethodsandParameters\obj\Debug\MethodsandParameters.csproj.AssemblyReference.cache
+C:\Users\WW540\source\repos\MethodsandParameters\MethodsandParameters\obj\Debug\MethodsandParameters.csproj.SuggestedBindingRedirects.cache
+C:\Users\WW540\source\repos\MethodsandParameters\MethodsandParameters\obj\Debug\MethodsandParameters.Form1.resources
+C:\Users\WW540\source\repos\MethodsandParameters\MethodsandParameters\obj\Debug\MethodsandParameters.Properties.Resources.resources
+C:\Users\WW540\source\repos\MethodsandParameters\MethodsandParameters\obj\Debug\MethodsandParameters.csproj.GenerateResource.cache
+C:\Users\WW540\source\repos\MethodsandParameters\MethodsandParameters\obj\Debug\MethodsandParameters.csproj.CoreCompileInputs.cache
+C:\Users\WW540\source\repos\MethodsandParameters\MethodsandParameters\obj\Debug\MethodsandParameters.exe
+C:\Users\WW540\source\repos\MethodsandParameters\MethodsandParameters\obj\Debug\MethodsandParameters.pdb
